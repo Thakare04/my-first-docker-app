@@ -41,7 +41,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>my-first-demo.jar</finalName>
+		<finalName>my-first-demo</finalName>
 	</build>
 
 </project>
